@@ -1,0 +1,5 @@
+name = "snakemake"
+grammar = "snakemake"
+path_suffixes = ["Snakefile", "snakefile", ".snakemake"]
+line_comments = ["# "]
+brackets = [{ start = "(", end = ")", close = true, newline = true }]
