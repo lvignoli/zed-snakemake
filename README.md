@@ -1,17 +1,5 @@
 # zed-vhs
 
-A [Zed](https://zed.dev) extension providing syntax highlighting for
-[VHS](https://github.com/charmbracelet/vhs) `.tape` files.
+A [Zed](https://zed.dev) extension for [snakemake](https://snakemake.readthedocs.io/en/stable/).
 
-![Example](assets/example.png)
-
-## Installation
-
-Install from the integrated Zed extensions store.
-
-![Install](assets/install.png)
-
-## Credits
-
-Based on [tree-sitter-vhs](https://github.com/charmbracelet/tree-sitter-vhs)
-by [Charm](https://github.com/charmbracelet).
+Provides syntax highlighting and outline to snakefiles, as well as folds, tasks and runnables.
