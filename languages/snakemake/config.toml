@@ -1,4 +1,4 @@
-name = "snakemake"
+name = "Snakemake"
 grammar = "snakemake"
 path_suffixes = ["Snakefile", "snakefile", "smk"]
 line_comments = ["# "]
