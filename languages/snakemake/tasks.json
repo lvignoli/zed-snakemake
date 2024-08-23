@@ -1,0 +1,16 @@
+[
+  {
+    "label": "snakemake: run",
+    "command": "snakemake"
+  },
+  {
+    "label": "snakemake: force run rule '$ZED_SYMBOL'",
+    "command": "snakemake",
+    "args": ["-R", "$ZED_SYMBOL"],
+    "tags": ["snakemake-force-run-rule"]
+  },
+  {
+    "label": "snakemake: export SVG dag",
+    "command": "snakemake --dag | dot -Tsvg > ${ZED_STEM}-dag.svg"
+  }
+]
