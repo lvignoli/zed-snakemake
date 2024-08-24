@@ -1,5 +1,8 @@
-# zed-vhs
+# zed-snakemake
 
 A [Zed](https://zed.dev) extension for [snakemake](https://snakemake.readthedocs.io/en/stable/).
 
-Provides syntax highlighting and outline to snakefiles, as well as folds, tasks and runnables.
+Provides language suport for Snakefiles:
+syntax highlighting and outline, folds, tasks and runnables.
+
+Can be installed from the Zed extension registry.
