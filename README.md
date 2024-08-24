@@ -7,6 +7,8 @@ syntax highlighting and outline, folds, tasks and runnables.
 
 Can be installed from the Zed extension registry.
 
+The treesitter gramar for snakemake is <https://github.com/osthomas/tree-sitter-snakemake>.\
+Queries have been built on top of Zed's Python and osthomas' snakemake ones.
 
 ## Example
 
